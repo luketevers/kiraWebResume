@@ -1,0 +1,29 @@
+{
+  "name": "kirawebresume",
+  "version": "1.0.0",
+  "description": "a web portfolio resume and CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luketevers/kiraWebResume.git"
+  },
+  "keywords": [
+    "Kira",
+    "Evers",
+    "Web",
+    "Resume",
+    "GIS",
+    "Sustainability",
+    "Geography",
+    "Architecture"
+  ],
+  "author": "luketevers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luketevers/kiraWebResume/issues"
+  },
+  "homepage": "https://github.com/luketevers/kiraWebResume#readme"
+}
