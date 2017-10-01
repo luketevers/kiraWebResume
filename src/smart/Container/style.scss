@@ -1,0 +1,44 @@
+@media (min-width:1440px) {
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    font-family: Roboto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+@media (min-width:990px) and (max-width:1439px) {
+  .container {
+    max-width: 900px;
+    margin: auto;
+    font-family: Roboto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 989px) {
+  .container {
+    max-width: 990px;
+    margin: auto;
+    font-family: Roboto;
+    display: block;
+    justify-content: center;
+    width: 90%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .container {
+    max-width: 320px;
+    margin: auto;
+    font-family: Roboto;
+    display: block;
+    justify-content: center;
+    width: 90%;
+    margin-top: 20px;
+  }
+}

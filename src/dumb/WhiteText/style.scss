@@ -1,0 +1,15 @@
+.text {
+  color: white;
+  z-index: 999;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  line-height: 28px;
+  margin-top: 35px;
+}
+@media (min-width: 320px) and (max-width: 767px) {
+  .text {
+    font-size: 16px;
+    margin-top: 65px;
+  }
+}
