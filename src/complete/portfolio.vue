@@ -53,4 +53,16 @@ a {
 .hello {
   padding-top: 50px;
 }
+@media (min-width:1440px) {
+
+}
+@media (min-width:1024px) and (max-width:1439px) {
+
+}
+@media (min-width:768px) and (max-width:1023px) {
+
+}
+@media (min-width:320px) and (max-width:767px) {
+
+}
 </style>

@@ -6,11 +6,9 @@
 </template>
 
 <script>
-import myHeader from './dumb/Header'
 export default {
   name: 'app',
   components: {
-    myHeader
     // Slider,
     // SliderItem,
     // MyButtonSlider,

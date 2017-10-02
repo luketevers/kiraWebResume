@@ -51,11 +51,11 @@ export default {
     },
     myHref2: {
       type: String,
-      default: 'resume'
+      default: '#/resume'
     },
     myHref3: {
       type: String,
-      default: 'portfolio'
+      default: '#/portfolio'
     }
   }
 }
@@ -118,5 +118,17 @@ export default {
 .contactItem a {
   text-decoration: none;
   color: #f1f1f1;
+}
+@media (min-width:1440px) {
+
+}
+@media (min-width:1024px) and (max-width:1439px) {
+
+}
+@media (min-width:768px) and (max-width:1023px) {
+
+}
+@media (min-width:320px) and (max-width:767px) {
+
 }
 </style>
