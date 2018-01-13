@@ -2,8 +2,8 @@
   <div class="background">
     <div class="text">
       <div class="textAlign">
-        <slot name='heading' class='heading'></slot>
-        <slot name='body' class="body"></slot>
+        <slot name='heading'></slot>
+        <slot name='body'></slot>
       </div>
     </div>
     <div class="imageContainer">
@@ -49,10 +49,13 @@ export default {
     float: right;
   }
   .heading {
-    font-size: 20px;
+    font-size: 30px;
   }
   .body {
-
+    font-size: 25px;
+  }
+  .textAlign {
+    width: 75%;
   }
   .imageContainer {
     width: 50%;

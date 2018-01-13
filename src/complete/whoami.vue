@@ -18,20 +18,20 @@
       <p slot='subHeading'>ME</p>
     </my-heading1>
     <my-block1 title='block1'>
-      <p slot='heading'>Hi</p>
-      <p slot='body'>My name is what? My name is who?</p>
+      <p slot='heading'>Great Place to talk about what motivates me</p>
+      <p slot='body'>My name is what? My name is who? Chicka chicka slim shady</p>
     </my-block1>
     <my-block2 title="block2">
-      <p slot='heading'>Hi</p>
-      <p slot='body'>My name is what? My name is who?</p>
+      <p slot='heading'>What do I do when I'm not doing that shit up there??</p>
+      <p slot='body'>New backpack who dis?</p>
     </my-block2>
     <my-block1 title='block3'>
-      <p slot='heading'>Hi</p>
-      <p slot='body'>My name is what? My name is who?</p>
+      <p slot='heading'>That's pretty cool right? But check this out I did this thing in Germany and it was dope</p>
+      <p slot='body'>Yeah I went to Germany, not knowing anyone and took the risk. Learned some German, corralled some architecture students, built this great green building, but check my portfolio out for more of that shit yo. NBD.</p>
     </my-block1>
     <my-block2 title="block4">
-      <p slot='heading'>Hi</p>
-      <p slot='body'>My name is what? My name is who?</p>
+      <p slot='heading'>Now I'm here being the student leader for my department, hella dope right?!</p>
+      <p slot='body'>Oh, You want more? Well stuff your face in this delicious pie, I talk with my dean on a weekly basis and the faculty thought that was a great idea cuz I'm so cool and responsible, but like its not that big of a deal. JK! I'm fuckin' awesome, you know you want a piece of this (professionally speaking)</p>
     </my-block2>
   </div>
 </template>
@@ -40,8 +40,8 @@
 import myHeader from '../dumb/Header'
 import myBanner from '../dumb/BannerText'
 import myHeading1 from '../dumb/Headers'
-import myBlock1 from '../dumb/BlockTextImageRight'
-import myBlock2 from '../dumb/BlockTextImageLeft'
+import myBlock1 from '../smart/BlockTextImageRight'
+import myBlock2 from '../smart/BlockTextImageLeft'
 
 export default {
   name: 'whoami',

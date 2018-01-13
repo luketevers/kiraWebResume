@@ -7,72 +7,38 @@
   </my-header>
   <div class="page">
     <div>
-      <span><h4><strong>Technical Experience</strong></h4></span>
-      <table class="table">
-        <tr>
-          <td>
-            <div class="row">
-              <div class="col">
-                <dl class="text-center">
-                  <dt>Backend</dt>
-                  <dd>PHP, MySQL, MongoDB, Node.js</dd>
-                </dl>
-              </div>
-              <div class="col">
-                <dl class="text-center">
-                  <dt>Frontend</dt>
-                  <dd>HTML5, CSS3, JavaScript</dd>
-                </dl>
-              </div>
-              <div class="col">
-                <dl class="text-center">
-                  <dt>Libraries/Frameworks</dt>
-                  <dd>Express.js, Pug, Passport.js, jQuery, Bootstrap</dd>
-                </dl>
-              </div>
-              <div class="col">
-                <dl class="text-center">
-                  <dt>Tools</dt>
-                  <dd>Atom, phpMyAdmin, WAMP</dd>
-                </dl>
-              </div>
-            </div>
-          </td>
-        </tr>
-      </table>
-    </div>
-    <div>
       <span><h4><strong>Work Experience</strong></h4></span>
       <table class="table table-my-style">
         <tr>
           <td class="description">
-            <p><strong>Onstad's Insurance Agency - Front-End Developer</strong></p>
-            <p>Architected an authenticated intranet to be deployed for remote employees. Built on an Express using Passport with bcrypt and MongoDB for password storage and encryption. Employed Pug to componentize headers and footers as well to power basic
-              ‘for’ loops. Re-branded the intranet for a clean user experience while maintaining simplicity for future maintenance and updating. Assisted the Customer Service Representatives with various administrative tasks.</p>
+            <p><strong>California Polytechnic State University - Undergraduate Research, GIS</strong></p>
+            <p>Locate GIS shapefile data, run calculations and analysis, and create maps. Work alongside Cal Poly Marine
+Biology professor and Cal Poly Computer Science student on a project looking to develop a plan for sustainable
+fisheries by incorporating regulation of high seas. </p>
           </td>
           <td class="no-wrap text-right">
-            <p>San Ramon, CA<br>2017</p>
+            <p>San Luis Obispo, CA<br>2017 &ndash; Present</p>
           </td>
         </tr>
         <tr>
           <td class="description">
-            <p><strong>Narvar Inc. - Implementation Engineer - Contractor</strong></p>
-            <p>Contracted to resolve a backlog of projects including product launches and outstanding page edits for shipping tracking pages. Collaborated with fellow implementation engineers to create a web app to assist future translations for international
-              locales and correspondence with clients utilizing JavaScript, React, Node and Mongo. Cooperated with the Customer Success team to accurately create the webpages our clients had envisioned - interpreting client feedback, while acting as a
-              liaison to the design team to create assets and full page mocks.</p>
+            <p><strong>Cal Poly Student Athlete Services - Student Athlete Tutor</strong></p>
+            <p>Work with student athletes one on one to ensure academic excellence. Schedule a consistent meeting time
+and location with individual tutees. Construct a personalized learning format for tutees based on their needs
+and unique learning style.</p>
           </td>
           <td class="no-wrap text-right">
-            <p>San Francisco, CA<br>2017</p>
+            <p>San Luis Obispo, CA<br>2017 &ndash; Present</p>
           </td>
         </tr>
         <tr>
           <td class="description">
-            <p><strong>Onstad's Insurance Agency - Web Developer</strong></p>
-            <p>Worked in an interdisciplinary team alongside three architecture students to develop a sustainable urban farming structure that functioned as an organism. Presented project in various formats including mid and final reviews, biomimicry exhibition,
-              and student panels. </p>
+            <p><strong>Cal Poly Conference and Event Planning - Conference Liaison</strong></p>
+            <p>Assist conference coordinators with event logistics, correspondence, and set up as well as work the event. Plan and work single and multiday events with a wide range in attendees from 30 to 300 people. Handle payments from clients and process
+              refund requests as well as daily office tasks. </p>
           </td>
           <td class="no-wrap text-right">
-            <p>San Ramon, CA<br>2012 &ndash; 2017</p>
+            <p>San Luis Obispo, CA<br>2016 &ndash; Present</p>
           </td>
         </tr>
         <tr>
@@ -121,73 +87,34 @@
         </tr>
       </table>
     </div>
-    <div class="row">
-      <div class="col">
-        <span>
-              <h4><strong>Languages</strong></h4>
-            </span>
-        <table class="table">
-          <tr>
-            <td>
-              <dl>
-                <div class="row">
-                  <dt class="col">
-                        <p class="text-right">English</p>
-                      </dt>
-                  <dd class="col">
-                    <p>Native</p>
-                  </dd>
-                </div>
-                <div class="row">
-                  <dt class="col">
-                        <p class="text-right">Japanese</p>
-                      </dt>
-                  <dd class="col">
-                    <p>Adequate Fluency</p>
-                  </dd>
-                </div>
-                <div class="row">
-                  <dt class="col">
-                        <p class="text-right">Spanish</p>
-                      </dt>
-                  <dd class="col">
-                    <p>Limited Fluency</p>
-                  </dd>
-                </div>
-              </dl>
-            </td>
-          </tr>
-        </table>
-      </div>
-      <div class="col">
-        <span>
-              <h4><strong>Affiliations</strong></h4>
-            </span>
-        <table class="table">
-          <tr>
-            <td>
-              <dl>
-                <div class="row">
-                  <dt class="col">
-                        <p class="text-right">Political Science<br>Student Association (PSSA)</p>
-                      </dt>
-                  <dd class="col">
-                    <p>2013 &ndash; 2016</p>
-                  </dd>
-                </div>
-                <div class="row">
-                  <dt class="col">
-                        <p class="text-right">PSSA Treasurer</p>
-                      </dt>
-                  <dd class="col">
-                    <p>2015 &ndash; 2016</p>
-                  </dd>
-                </div>
-              </dl>
-            </td>
-          </tr>
-        </table>
-      </div>
+    <div>
+      <span><h4><strong>Accolades, Languages and Technical Experience</strong></h4></span>
+      <table class="table">
+        <tr>
+          <td>
+            <div class="row">
+              <div class="col">
+                <dl class="text-center">
+                  <dt>Accolades</dt>
+                  <dd>Dean’s List, 7/8 Quarters - Cal Poly<br>Psychology Department Award - Castro Valley High School</dd>
+                </dl>
+              </div>
+              <div class="col">
+                <dl class="text-center">
+                  <dt>Languages</dt>
+                  <dd>English - Fluent<br>Spanish - Conversational<br>German - Elementary</dd>
+                </dl>
+              </div>
+              <div class="col">
+                <dl class="text-center">
+                  <dt>Technical Experience</dt>
+                  <dd>ArcGIS, Rhino, Microsoft Office Suite, InDesign</dd>
+                </dl>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </table>
     </div>
   </div>
 </div>

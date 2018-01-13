@@ -54,6 +54,9 @@ export default {
   .bodyRight {
 
   }
+  .textAlignRight {
+    width: 75%;
+  }
   .imageContainerRight {
     width: 50%;
     height: 450px;
