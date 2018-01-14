@@ -1,27 +1,31 @@
 export default {
-  name: 'castMember',
-  title: 'Cast Member',
+  name: 'resumeAwards',
+  title: 'Resume Awards',
   type: 'object',
   fields: [
     {
-      name: 'characterName',
-      title: 'Character Name',
+      name: 'schoolTitle',
+      title: 'School Title',
       type: 'string'
     },
     {
-      name: 'person',
-      title: 'Actor',
-      type: 'reference',
-      to: [{type: 'person'}]
+      name: 'schoolYears',
+      title: 'School Years ',
+      type: 'string'
     },
     {
-      name: 'externalId',
-      title: 'External ID',
-      type: 'number'
+      name: 'schoolLocation',
+      title: 'School Location ',
+      type: 'string'
     },
     {
-      name: 'externalCreditId',
-      title: 'External Credit ID',
+      name: 'schoolBody',
+      title: 'School Body ',
+      type: 'string'
+    },
+    {
+      name: 'schoolProgram',
+      title: 'School Program',
       type: 'string'
     }
   ],
@@ -31,7 +35,7 @@ export default {
       name: 'person.name',
       imageUrl: 'person.image.asset.url'
     },
-    prepare(selection) {
+    prepare (selection) {
       const {characterName, name, imageUrl} = selection
       return {
         title: name,
